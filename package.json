@@ -1,0 +1,13 @@
+{
+    "name": "bootstrap",
+    "description": "Bootstrap adaptation for wonkajs",
+    "author": "@jceb",
+    "homepage": "http://github.com/julianceballos/chocobootstrap",
+    "version": "2.3.2",
+    "_id": "bootstrap@2.3.2",
+    "resources": {
+        "images": ["bootstrap"],
+        "stylesheets": ["bootstrap"]
+    },
+    "libraries": ["bootstrap"]
+}
