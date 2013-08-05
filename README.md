@@ -1,7 +1,7 @@
 ## Install
 
 ```sh
-$ wonkajs candy bootstrap
+$ wonkajs candy Bootstrap
 ```
 
 ## Configure
@@ -9,8 +9,8 @@ $ wonkajs candy bootstrap
 Open on your project the file **stylesheets/ui.less** and add the lines:
 
 ```less
-@import "bootstrap/bootstrap.less";
-@import "bootstrap/bootstrap-responsive.less";
+@import "Bootstrap/bootstrap.less";
+@import "Bootstrap/bootstrap-responsive.less";
 ```
 
 Edit your package.json and add "images" to the section **deploy.folders** if is not defined.
