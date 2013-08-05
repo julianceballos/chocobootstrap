@@ -1,7 +1,7 @@
 ## Install
 
 ```sh
-$ wonkajs candy Bootstrap
+$ wonkajs candy bootstrap
 ```
 
 ## Configure
